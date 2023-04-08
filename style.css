@@ -1,0 +1,41 @@
+.content {
+  border: 1px solid black;
+  border-radius: 2rem;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+}
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#count {
+  font-weight: 1000;
+}
+
+#increment {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: green;
+  font-weight: 600;
+  color: white;
+}
+
+#decrement {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: yellow;
+  font-weight: 600;
+}
+
+#reset {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: red;
+  font-weight: 600;
+  color: white;
+}
